@@ -1,0 +1,16 @@
+{
+	"name" : "Docker example",
+	"version" : "1.0.0",
+	"description" : "sample docker code",
+	"main" : "index.js",
+	"scripts" : {
+			"test" : "echo \"Testing  \""
+			},
+
+	"author" : "Rajesh",
+	"license" : "ISC",
+	"dependencies" : {
+				"express" : "^4.15.2"
+			}
+}
+
